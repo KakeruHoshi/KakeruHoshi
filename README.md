@@ -18,21 +18,9 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/KakeruHoshi/posts.svg" />
   </a>
   <//qiita.com/KakeruHoshi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/KakeruHoshi/contributions.svg" />
   </a>
-</p>
-
-<p>
-  <a href="https://github.com/KakeruHoshi">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=KakeruHoshi&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/KakeruHoshi">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakeruHoshi&layout=compact&theme=dracula" />
-  </a>
-</p>
-
-<p>
   <a href="https://github.com/KakeruHoshi">
     <img src="https://github-profile-trophy.vercel.app/?username=KakeruHoshi&theme=onedark&column=7" />
   </a>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=KakeruHoshi&count_private=true&show_icons=true&theme=dracula" /><img height="170px" src="https://github-readme-stats.vercel.app/api?username=KakeruHoshi&count_private=true&show_icons=true&theme=dracula" />
 </p>
